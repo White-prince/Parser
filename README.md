@@ -18,7 +18,7 @@ You can follow me on my social networks:
 
 This site was created for the Best peoples.
 
-## Preview :desktop_computer:
+
 
 
 
