@@ -14,6 +14,9 @@ print("Аниме на 1 странице")
 for el in html.select(".kino-item > .kino-title"):
     content = el.select('h2')
     print(content[0].text)
+    while el in html.find_all(".kino-inner > .kino-text"):
+        info = el.select(".kino-desc")
+        print(info[0].text)
 
 print("Аниме на 2 странице")
 for el in html2.select(".kino-item > .kino-title"):
