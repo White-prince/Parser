@@ -16,7 +16,7 @@ You can follow me on my social networks:
 
 # White-prince Parser 
 
-This site was created for the Best peoples.
+Parser for anime site.
 
 
 
