@@ -18,8 +18,23 @@ You can follow me on my social networks:
 
 Parser for anime site.
 
+## Installation :gear:
 
+If you are cloning a project, run it first, otherwise you can download the source on the release page and skip this step.
 
+    git clone https://github.com/White-prince/Parser.git
 
+You will need to install:
+
+    pip install requests
+    pip install BeautifulSoup4
+
+If the library doesn't install, try updating pip.
+
+## Usege :information_source:
+
+To start:
+    
+    python main.py
 
 Hope this code helps you :crown:
